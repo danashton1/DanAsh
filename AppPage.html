@@ -11,25 +11,33 @@
 
     <title>AppPage</title>
 </head>
+<style>
+    body{
+        background-image: url("background.png");
+
+        background-repeat:no-repeat;
+
+        background-size:cover;
+    }
+</style>
 <body>
-
-<ul class="nav nav-pills">
-    <li class="nav-item">
-        <a class="nav-link" href="HomePage.html">Home</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link active" href="AppPage.html">Application</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="LightkeyPage.html">Light key</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="AboutPage.html">About</a>
-    </li>
-</ul>
-
-<h1 align="center">Application</h1>
-
+<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+    <ul class="nav nav-pills">
+        <li class="nav-item">
+            <a class="nav-link" href="HomePage.html">Home</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" href="AppPage.html">Application</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="LightkeyPage.html">Light key</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="AboutPage.html">About</a>
+        </li>
+    </ul>
+</nav>
+<h1 align="center" class="text-warning">Application</h1>
 <div class="text-center">
     <div id="spinnerRed" class="spinner-grow text-danger" role="status">
         <span class="sr-only">Loading...</span>
@@ -44,8 +52,6 @@
         <span class="sr-only">Loading...</span>
     </div>
 </div>
-
-
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

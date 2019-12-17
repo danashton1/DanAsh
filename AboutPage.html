@@ -11,26 +11,42 @@
 
     <title>AboutPage</title>
 </head>
+<style>
+    body{
+        background-image: url("background.png");
+
+        background-repeat:no-repeat;
+
+        background-size:cover;
+    }
+</style>
 <body>
-
-<ul class="nav nav-pills">
-    <li class="nav-item">
-        <a class="nav-link" href="HomePage.html">Home</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="AppPage.html">Application</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="LightkeyPage.html">Light key</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link active" href="AboutPage.html">About</a>
-    </li>
-</ul>
-
-<h1 align="center">About</h1>
-
-<p align="center">About this game...<p>
+<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+    <ul class="nav nav-pills">
+        <li class="nav-item">
+            <a class="nav-link" href="HomePage.html">Home</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="AppPage.html">Application</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="LightkeyPage.html">Light key</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" href="AboutPage.html">About</a>
+        </li>
+    </ul>
+</nav>
+<h1 align="center" class="text-warning">About</h1>
+<div class="p-3 mb-2 bg-info text-white">
+    <h3>About this game</h3>
+    <p>Memory tester was developed to challenge peoples ability to memorise the colour sequence of the flashing hue lights in the Smeaton 109 lab.<br>
+        The player starts off with three lives and will lose a life every time they guess the sequence incorrectly. The game will get progressively harder<br>
+        by increasing the length of the sequence for the player to remember.</p><br>
+    <h3>Developer</h3>
+    <p>Memory tester was developed by a University of Plymouth student called <a href="mailto:danashton@live.co.uk">Daniel Ashton</a>.<br>
+        Feel free to contact him if you have any queries about the game.</p>
+</div>
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
