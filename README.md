@@ -12,3 +12,13 @@ I have added some bootstrap code so I can use the CSS to for things like my navi
 ## Screenshots
 Home page: 
 ![alt text](Homepage.PNG "Home page")
+
+Application page:
+![alt text](Applicationpage.PNG "Application page")
+
+Lights key page:
+![alt text](Lightskeypage.PNG "Lights key page")
+
+About page:
+![alt text](Aboutpage.PNG "About page")
+
