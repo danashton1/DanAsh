@@ -9,3 +9,6 @@ I have added some bootstrap code so I can use the CSS to for things like my navi
 ## Application fact sheet
 [Application fact sheet](Application%20fact%20sheet.docx)
 ---
+## Screenshots
+Home page: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Home page")
