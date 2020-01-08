@@ -22,3 +22,9 @@ Lights key page:
 About page:
 ![alt text](Aboutpage.PNG "About page")
 
+## Web accessibility
+Testing on the application was carried out on Google chrome and internet explorer.
+
+
+Screenshots are provided to illustrate the testing.
+
