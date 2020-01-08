@@ -7,5 +7,5 @@ I have created the pages and linked them together so i can navigate between them
 I have added some bootstrap code so I can use the CSS to for things like my navigation bar.
 
 ## Application fact sheet
-[Application fact sheet](Application fact sheet.docx)
+[Application fact sheet](Application%20fact%20sheet.docx)
 ---
