@@ -26,5 +26,6 @@ About page:
 Testing on the application was carried out on Google chrome and internet explorer.
 ![alt text](Chrometest.PNG "Chrome test")
 ![alt text](Firefoxtest.PNG "Firefox test")
+
 Screenshots are provided to illustrate the testing.
 
