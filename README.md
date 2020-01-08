@@ -24,7 +24,11 @@ About page:
 
 ## Web accessibility
 Testing on the application was carried out on Google chrome and internet explorer.
+
+Chrome test:
 ![alt text](Chrometest.PNG "Chrome test")
+
+Firefox test:
 ![alt text](Firefoxtest.PNG "Firefox test")
 
 Screenshots are provided to illustrate the testing.
