@@ -6,4 +6,4 @@ Welcome to the repository for the development of Memory tester. This game is des
 I have created the pages and linked them together so i can navigate between them using a fixed navagation bar at the top of the page.
 I have added some bootstrap code so I can use the CSS to for things like my navigation bar.
 
-[Application fact sheet]()
+[Application fact sheet](Application fact sheet.docx)
