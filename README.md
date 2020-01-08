@@ -23,7 +23,7 @@ About page:
 ![alt text](Aboutpage.PNG "About page")
 
 ## Web accessibility
-Testing on the application was carried out on Google chrome and internet explorer.
+Testing on the application was carried out on Google chrome and Firefox.
 
 Chrome test:
 ![alt text](Chrometest.png "Chrome test")
