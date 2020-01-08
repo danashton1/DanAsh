@@ -11,4 +11,4 @@ I have added some bootstrap code so I can use the CSS to for things like my navi
 ---
 ## Screenshots
 Home page: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Home page")
+![alt text](Homepage.PNG "Home page")
