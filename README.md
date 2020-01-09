@@ -45,4 +45,4 @@ Here is the player hovering over the developers name:
 ![alt text](AboutPlayerhover.png "About page")
 
 Here the player is directed to their email whith the developers email already inputed in to the recipient line:
-![alt text](EmailSoft166.png "About page")
+![alt text](EmailSoft166.PNG "About page")
