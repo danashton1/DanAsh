@@ -8,6 +8,7 @@ I have added some bootstrap code so I can use the CSS to for things like my navi
 
 ## Youtube video
 Application demonstration:
+---
 <a href="https://www.youtube.com/watch?v=tacFj1RQE8U
 " target="_blank"><img src="YoutubeSS.PNG" 
 alt="Youtube screenshot" width="240" height="180" border="10" /></a>
