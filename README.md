@@ -7,8 +7,6 @@ I have created the pages and linked them together so i can navigate between them
 I have added some bootstrap code so I can use the CSS to for things like my navigation bar.
 
 ## Youtube video
-Application demonstration:
----
 <a href="https://www.youtube.com/watch?v=tacFj1RQE8U
 " target="_blank"><img src="YoutubeSS.PNG" 
 alt="Youtube screenshot" width="240" height="180" border="10" /></a>
