@@ -40,5 +40,9 @@ Screenshots are provided to illustrate the testing.
 
 ## Features of this application
 Email linked on about page: When the player clicks on the developers name on the about page they will be directed to there outlook ready to email the developer with any querier they have.
+
 Here is the player hovering over the developers name:
-![alt text](Firefoxtest.png "About page")
+![alt text](AboutPlayerhover.png "About page")
+
+Here the player is directed to their email whith the developers email already inputed in to the recipient line:
+![alt text](EmailSoft166.png "About page")
