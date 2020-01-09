@@ -12,7 +12,7 @@ I have added some bootstrap code so I can use the CSS to for things like my navi
 alt="Youtube screenshot" width="240" height="180" border="10" /></a>
 
 ## Application fact sheet
-[Application fact sheet](Application%20fact%20sheet.docx)
+[Application fact sheet](Application%20fact%20sheet.pdf)
 ---
 ## Screenshots
 Home page: 
