@@ -30,10 +30,10 @@ About page:
 ## Web accessibility
 Testing on the application was carried out on Google chrome and Firefox.
 
-Chrome test:
+Chrome test: Successful.
 ![alt text](Chrometest.png "Chrome test")
 
-Firefox test:
+Firefox test: Successful.
 ![alt text](Firefoxtest.png "Firefox test")
 
 Screenshots are provided to illustrate the testing.
